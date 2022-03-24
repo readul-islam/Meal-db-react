@@ -1,0 +1,29 @@
+.food{
+    border: 1px solid gray;
+    height:500px;
+    width: 310px;
+    border-radius: 8px;
+    position: relative;
+   
+   
+}
+.food img{
+width: 290px;
+margin: 10px;
+border-radius: 8px;
+}
+.info{
+    margin-left: 10px;
+}
+.button{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color:#ff9f00;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius:8px;
+    padding:10px;
+    cursor: pointer;
+}
